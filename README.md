@@ -1,7 +1,9 @@
-# CRM — Accounts module (code showcase)
+# CRM - Accounts module (code showcase)
 
 Extracto **curado y de solo lectura** del módulo de **Accounts** (cuentas /
-empresas) de un CRM comercial que construí. Muestra una feature de punta a punta:
+empresas) de un CRM comercial que construí para una empresa de software consulting 
+y staff augmentation.  
+Muestra una feature de punta a punta:
 listado con filtros y búsqueda, alta y edición, la vista de detalle de una cuenta,
 y un **mapa de relaciones interactivo** dibujado en canvas.
 
